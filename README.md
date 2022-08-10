@@ -1,5 +1,6 @@
+<div style="border: 4px; background-color: magenta;">
 ### Engineer, STEM-teacher, DIY-enthusiast, 🇬🇧 🇷🇺 🇺🇦 ♟
-
+</div>
 - 🔭 I’m currently working on becoming a full-stack developer
 - 🌱 I’m currently learning [Flask](https://flask.palletsprojects.com/en/2.2.x/) & [Jango](https://www.djangoproject.com)
 - 💬 Ask me about kids education
