@@ -1,26 +1,30 @@
-# Anton Shcherbyna
+# Hey, I’m Anton 👋
 
-**Robotics Systems Specialist — Physical AI Operations, Testing & Integration**
+🦾 **Physical AI & real robots**  
+🧑‍🏫 **STEM education**  
+🛠️ **Hardware, code, and “why is it doing that?”**  
+🤝 **Connecting people and getting projects unstuck**
 
-I work at the boundary between AI software and real machines: robotic manipulation, real-world data collection, structured evaluation, and lab-system troubleshooting.
+I like work that leaves the screen and starts moving.
 
-My strongest area is turning physical failures into reproducible engineering evidence — running repeatable experiments, validating data, tracing issues across software, hardware, and mechanics, and feeding clear findings back into R&D.
+Most days, that means real robotic systems: collecting data, testing behavior, chasing weird failures across software, hardware, and mechanics — and turning “something feels off” into something engineers can actually reproduce.
 
-## Focus
+I also teach physics, programming, and robotics to kids and teenagers. What interests me most is the overlap: Physical AI as something students can build, program, break, question, and understand — not just watch through a black box.
 
-- Physical AI and embodied systems
-- Robotic manipulation, teleoperation, and human-in-the-loop workflows
-- Data collection, quality control, evaluation, and failure reproduction
-- ROS 2, Python, Linux, Git, and Docker
-- End effectors, sensors, embedded electronics, and 3D-printed fixtures
-- Safe AI-to-robot interfaces: validation, observability, limits, fallbacks, and deterministic execution
+I’m usually the person connecting the dots (and the people): operators with engineers, an idea with a prototype, and a stuck project with its next step.
 
-## Public work
+## Things I’m into
 
-- [**ChatGPT Custom Instructions v4**](https://github.com/thedisciple/chatgpt-custom-instructions) — a research-informed redesign of an established instruction set, with current ChatGPT limits, explicit stop rules, and source-backed rationale.
+- robot arms, teleoperation, and real-world testing
+- Python, ROS 2, Linux, Docker, and small useful automations
+- electronics, sensors, Raspberry Pi, Arduino, and 3D printing
+- hands-on STEM education
+- teams that actually talk to each other
 
-Most of my robotics work runs on real lab systems and is not publishable. I use GitHub for non-proprietary tools, experiments, and technical notes that can be reproduced independently.
+## Here on GitHub
 
-## Background
+- [ChatGPT Custom Instructions](https://github.com/thedisciple/chatgpt-custom-instructions) — a practical, evidence-informed update of the prompt I’d been using for years, rebuilt for current GPT-5 models.
 
-Mechatronics, electrical engineering, practical software development, and STEM education. Based in Novi Sad / Belgrade, Serbia.
+Most of my robotics work is proprietary. The public stuff here is what I can share properly — without pretending every weekend experiment is a “startup.”
+
+> Robots, curious kids, and projects that finally move — preferably in the intended direction.
